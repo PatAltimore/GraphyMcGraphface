@@ -1,0 +1,7 @@
+# Configuration files
+/GraphyMcGraphface/bin
+/GraphyMcGraphface/obj
+/.vs
+config.js
+*.pfx
+project.lock.json
