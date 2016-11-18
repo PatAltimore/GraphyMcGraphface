@@ -24,6 +24,5 @@ This sample is based on the demo highlighted in this video: https://channel9.msd
 1.	Use .NET’s HTTP Client class to do a HTTP request & response.  This is our REST call to the endpoint.
 
 ### Run the code
-1.	Use a test Office 365 account. 
+1.	Use a test Office 365 account.
 
-test
